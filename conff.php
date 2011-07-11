@@ -3,7 +3,7 @@
 session_start();
 if(!isset($_SESSION['tema'])){$_SESSION['tema']=1;}
 $salt = "GIF#&IFiy82fgsgfu6&%43";
-$dbcon=mysql_connect("localhost","root","");
+$dbcon=mysql_connect("localhost","root","lida900128");
 if(!$dbcon)
 {
 	die("cannot conect");
