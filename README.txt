@@ -9,7 +9,7 @@ Blog System:
 -creates a blog for the user on register
 -the user can:
    write/edit/delete articles;
-   categorize artcles;
+   categorize articles;
    allow/disallow comments;
    choose a theme;
    adding comments;
